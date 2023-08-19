@@ -113,6 +113,7 @@ mindmap
   root[OSS Sustainability]
     7[7. Microsoft]
       7.1[7.1 Avoid NIH Syndrome]
+      7.2[7.2 Don't Cannibalize existing OSS]
 ```
 
 ## 8. Commercial Vendors
