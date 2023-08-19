@@ -16,7 +16,9 @@ To achieve these impacts, we're using [a tool commonly known as impact mapping](
 * **A bias toward action**. We will be keeping a keen focus on what we can do from where we are.
 * **Making space to participate**. This is a multifaceted challenge and we're going to find a way for people to jump in where they're most passionate.
 
-## Inteoducing the Impact Maps
+## Introducing the Impact Maps
 
 Normally this would be a very large map, but for the ease of reading we're breaking the map up by the second level (the "who")
 . There will be some overlapping items but we'll do our best to organize it for disocverability.
+
+You can read this as: "(Person/Group) -- Can support OSS sustainability by -> (behavior change)  -- which we can influence by -> (thing we can do)".
