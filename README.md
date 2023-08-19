@@ -30,6 +30,9 @@ You can read this as: "(Person/Group) -- Can support OSS sustainability by -> (b
 mindmap
   root[OSS Sustainability]
     1[1. OSS Maintainers]
+      1.1[1.1 Communicate Your Needs]
+      1.2[1.2 Make it easy to fund you]
+      1.3[Don't alienate while asking for help]
 ```
 
 ## 2. OSS Contributors
