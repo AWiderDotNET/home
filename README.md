@@ -31,3 +31,27 @@ mindmap
   root[OSS Sustainability]
     1[1. OSS Maintainers]
 ```
+
+## 2. OSS Contributors
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    2[2. OSS Contributors]
+```
+
+## 3. OSS Consumers
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    3[3. OSS Consumers]
+```
+
+## 4. Companies
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    4[4. Companies]
+```
