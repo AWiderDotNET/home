@@ -65,6 +65,8 @@ mindmap
         3.3.2(3.3.2 place to get trained to contribute)
       3.4[3.4 Thank OSS Maintainers]
         3.4.1(3.4.1 guidance on ways to thank maintainers)
+      3.5[3.5 Pay for a support license]
+      3.6[Seize OSS Consulting opportunities]
 ```
 
 ## 4. Companies
@@ -82,6 +84,8 @@ mindmap
         4.2.5(4.2.5 Points on Business value of OSS funding)
         4.2.6(4.2.6 tooling to surface which OSS is asking for funding)
       4.3[4.3 Make Space to Contribute to OSS]
+      4.4[Let OSS highlight you as a user]
+      4.5[Seize OSS Consulting opportunities]
 ```
 
 ## 5. Would-Be Contributors
@@ -109,4 +113,13 @@ mindmap
   root[OSS Sustainability]
     7[7. Microsoft]
       7.1[7.1 Avoid NIH Syndrome]
+```
+
+## 8. Commercial Vendors
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    8[8. Commercial Tooling Vendors]
+      8.1[8.1 Offer Free Tooling]
 ```
