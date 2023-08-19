@@ -22,3 +22,12 @@ Normally this would be a very large map, but for the ease of reading we're break
 . There will be some overlapping items but we'll do our best to organize it for disocverability.
 
 You can read this as: "(Person/Group) -- Can support OSS sustainability by -> (behavior change)  -- which we can influence by -> (thing we can do)".
+
+
+## 1. OSS Maintainers
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    1[1. OSS Maintainers]
+```
