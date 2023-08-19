@@ -62,8 +62,13 @@ mindmap
 mindmap
   root[OSS Sustainability]
     4[4. Companies]
-      4.1[4.1 Understand OSS Supply Chain]
+      4.1[4.1 Understand OSS as a Supply Chain]
       4.2[4.2 Support OSS with Funding]
+        4.2.1[4.2.1 Hall of Fame for OSS Funding]
+        4.2.2[4.2.2 Howto on OSS Fund]
+        4.2.3[4.2.3 Examples of OSS Monetary Support]
+        4.2.4[4.2.4 Employee Talking Points for OSS Funding]
+        4.2.5[Points on Business value of OSS funding]
       4.3[4.3 Make Space to Contribute to OSS]
 ```
 
@@ -91,4 +96,5 @@ mindmap
 mindmap
   root[OSS Sustainability]
     7[7. Microsoft]
+      7.1[7.1 Avoid NIH Syndrome]
 ```
