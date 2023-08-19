@@ -41,6 +41,8 @@ mindmap
 mindmap
   root[OSS Sustainability]
     2[2. OSS Contributors]
+      2.1[2.1 Attract More Contributors]
+      2.2[2.1 Focus Efforts for More Impact]
 ```
 
 ## 3. OSS Consumers
@@ -49,6 +51,9 @@ mindmap
 mindmap
   root[OSS Sustainability]
     3[3. OSS Consumers]
+      3.1[3.1 Understand OSS Value]
+      3.2[3.2 Respect OSS Authors]
+      3.3[3.3 Contribute Something Back]
 ```
 
 ## 4. Companies
@@ -57,6 +62,9 @@ mindmap
 mindmap
   root[OSS Sustainability]
     4[4. Companies]
+      4.1[4.1 Understand OSS Supply Chain]
+      4.2[4.2 Support OSS with Funding]
+      4.3[4.3 Make Space to Contribute to OSS]
 ```
 
 ## 5. Would-Be Contributors
@@ -65,6 +73,8 @@ mindmap
 mindmap
   root[OSS Sustainability]
     5[5. Would-Be Contributors]
+      5.1[5.1 Become a Contributor]
+      5.2[5.2 Be aware of non-coding opportunities]
 ```
 
 ## 6. .NET Foundation
