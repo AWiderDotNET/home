@@ -31,6 +31,8 @@ mindmap
   root[OSS Sustainability]
     1[1. OSS Maintainers]
       1.1[1.1 Communicate Your Needs]
+        1.1.1(1.1.1 JSON Schema for surfacing needs)
+        1.1.2(1.1.2 tool to scan for surfaced needs)
       1.2[1.2 Make it easy to fund you]
       1.3[Don't alienate while asking for help]
 ```
@@ -52,8 +54,17 @@ mindmap
   root[OSS Sustainability]
     3[3. OSS Consumers]
       3.1[3.1 Understand OSS Value]
+        3.1.1(3.1.1 console app to show OSS usage)
+        3.1.2(3.1.2 article on biz value of OSS)
+        3.1.3(3.1.3 article on how to convince biz of value)
       3.2[3.2 Respect OSS Authors]
+        3.2.1(3.2.1 consumer convenant with guidance on behavior/mindset)
+        3.2.2(signatories on covenant)
       3.3[3.3 Contribute Something Back]
+        3.3.1(3.3.1 guidance on non-code contribution)
+        3.3.2(3.3.2 place to get trained to contribute)
+      3.4[3.4 Thank OSS Maintainers]
+        3.4.1(3.4.1 guidance on ways to thank maintainers)
 ```
 
 ## 4. Companies
@@ -64,11 +75,12 @@ mindmap
     4[4. Companies]
       4.1[4.1 Understand OSS as a Supply Chain]
       4.2[4.2 Support OSS with Funding]
-        4.2.1[4.2.1 Hall of Fame for OSS Funding]
-        4.2.2[4.2.2 Howto on OSS Fund]
-        4.2.3[4.2.3 Examples of OSS Monetary Support]
-        4.2.4[4.2.4 Employee Talking Points for OSS Funding]
-        4.2.5[Points on Business value of OSS funding]
+        4.2.1(4.2.1 Hall of Fame for OSS Funding)
+        4.2.2(4.2.2 Howto on OSS Fund)
+        4.2.3(4.2.3 Examples of OSS Monetary Support)
+        4.2.4(4.2.4 Employee Talking Points for OSS Funding)
+        4.2.5(4.2.5 Points on Business value of OSS funding)
+        4.2.6(4.2.6 tooling to surface which OSS is asking for funding)
       4.3[4.3 Make Space to Contribute to OSS]
 ```
 
