@@ -55,3 +55,27 @@ mindmap
   root[OSS Sustainability]
     4[4. Companies]
 ```
+
+## 5. Would-Be Contributors
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    5[5. Would-Be Contributors]
+```
+
+## 6. .NET Foundation
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    6[6. .NET Foundation]
+```
+
+## 7. Microsoft
+
+```mermaid
+mindmap
+  root[OSS Sustainability]
+    7[7. Microsoft]
+```
