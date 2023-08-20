@@ -63,7 +63,10 @@ mindmap
       1.8.2(1.8.2 Mutual aid to connect projects)
       1.8.3(1.8.3 Recommend tooling and templates to standardize this for orgs)
       1.8.4(1.8.4 highlight real-world examples)
-
+    1.9[1.9 Deliver well]
+      1.9.1(1.9.1 showcase projects doing this well)
+      1.9.2(1.9.2 space to ask for help on this)
+      1.9.3(1.9.3 modern delivery checklist)
 
 ```
 
@@ -183,4 +186,6 @@ mindmap
       8.1.3(8.1.3 Wall of thanks for vendors doing this)
     8.2[8.2 Surface the free Tooling offers]
        8.2.1(8.2.1 add to our mutual aid offers)
+    8.3[8.3.1 Offer public help on using tools with OSS]
+      8.3.1(8.3.1 YouTube / stream with vendors & devrel)
 ```
