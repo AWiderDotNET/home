@@ -67,6 +67,9 @@ mindmap
       1.9.1(1.9.1 showcase projects doing this well)
       1.9.2(1.9.2 space to ask for help on this)
       1.9.3(1.9.3 modern delivery checklist)
+    1.10[1.10 create/improve docs]
+    1.11[1.11 CI process around docs]
+    1.12[1.12 clear bug reporting expectations/process]
 
 ```
 
@@ -76,7 +79,8 @@ mindmap
 mindmap
   2[2. OSS Contributors]
     2.1[2.1 Attract More Contributors]
-    2.2[2.1 Focus Efforts for More Impact]
+    2.2[2.2 Focus Efforts for More Impact]
+    2.3[2.3 contribute docs too]
 ```
 
 ## 3. OSS Consumers
@@ -103,6 +107,7 @@ mindmap
       3.8.1(3.8.1 Guidance on new quasi-OSS licenses)
       3.8.2(3.8.2 Article on why these licenses are appearing)
       3.8.3(3.8.3 How to talk to employers about this)
+    3.9[3.9 Improve your bug reports]
 ```
 
 ## 4. Companies
@@ -147,6 +152,7 @@ mindmap
       4.8.1(4.8.1 Guidance on new quasi-OSS licenses)
       4.8.2(4.8.2 Article on why these licenses are appearing)
       4.8.3(4.8.3 Maintainer talking points to help companies)
+    4.9[4.9 get non-coders to contribute to OSS]
 
 ```
 
@@ -164,6 +170,8 @@ mindmap
 ```mermaid
 mindmap
   6[6. .NET Foundation]
+    6.1[6.1 offer a shared technical writing resource]
+    6.2[6.2 offer shared legal resource]
 ```
 
 ## 7. Microsoft
