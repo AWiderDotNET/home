@@ -46,6 +46,10 @@ mindmap
       1.5.6(1.5.6 GitHub Sponsors Entry Guidance/examples)
       1.5.7(1.5.7 Mutual aid site to connect projects around this)
       1.5.8(1.5.8 Guidance/examples around personal tax implications)
+    1.6[1.6 License software for monetary support]
+      1.6.1(1.6.1 Guidance/examples around "open core" licensing)
+      1.6.2(1.6.2 Mutual aid to connect projects)
+      1.6.3(1.6.3 Article to address "is it still OSS?" / OSI licensing)
 ```
 
 ## 2. OSS Contributors
@@ -77,6 +81,10 @@ mindmap
     3.5[3.5 Pay for a support license]
     3.6[3.6 Seize OSS Consulting opportunities]
     3.7[3.7 Beware OSS Entitlement]
+    3.8[3.8 Don't rule out non-OSI licenses]
+      3.8.1(3.8.1 Guidance on new quasi-OSS licenses)
+      3.8.2(3.8.2 Article on why these licenses are appearing)
+      3.8.3(3.8.3 How to talk to employers about this)
 ```
 
 ## 4. Companies
@@ -112,11 +120,15 @@ mindmap
       4.6.3(4.6.3 Support license templates)
       4.6.4(4.6.4 Legal vetting of support licenses)
       4.6.5(4.6.5 Guidance to companies to shortcut procurement rage)
-    4.7[Hire Maintainers for Consulting]
+    4.7[4.7 Hire Maintainers for Consulting]
       4.7.1(4.7.1 Place where maintainers can ask where consulting might be valuable)
       4.7.2(4.7.2 Template guidance for consulting availability/outreach)
       4.7.3(4.7.3 Standard ways for maintainers to announce their availability for consulting)
       4.7.4(4.7.4 Templates for clear consulting engagement boundaries)
+    4.8[4.8 Don't rule out non-OSI licenses]
+      4.8.1(4.8.1 Guidance on new quasi-OSS licenses)
+      4.8.2(4.8.2 Article on why these licenses are appearing)
+      4.8.3(4.8.3 Maintainer talking points to help companies)
 
 ```
 
