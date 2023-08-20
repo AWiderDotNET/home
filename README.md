@@ -70,7 +70,7 @@ mindmap
     1.10[1.10 create/improve docs]
     1.11[1.11 CI process around docs]
     1.12[1.12 clear bug reporting expectations/process]
-
+    1.13[1.13 actively promote your project]
 ```
 
 ## 2. OSS Contributors
@@ -108,6 +108,9 @@ mindmap
       3.8.2(3.8.2 Article on why these licenses are appearing)
       3.8.3(3.8.3 How to talk to employers about this)
     3.9[3.9 Improve your bug reports]
+    3.10[3.10 tell people how the labraries you use help you]
+    3.11[3.11 talk specifically about "bedrock" everyday libraries]
+    3.12[3.12 don't complain about OSS projects publicly unnecessarily]
 ```
 
 ## 4. Companies
@@ -153,6 +156,7 @@ mindmap
       4.8.2(4.8.2 Article on why these licenses are appearing)
       4.8.3(4.8.3 Maintainer talking points to help companies)
     4.9[4.9 get non-coders to contribute to OSS]
+    4.10[4.10 showcase oss on your larger feeds]
 
 ```
 
@@ -172,6 +176,8 @@ mindmap
   6[6. .NET Foundation]
     6.1[6.1 offer a shared technical writing resource]
     6.2[6.2 offer shared legal resource]
+    6.3[6.3 promote projects with marketing]
+    6.4[6.4 provide direct professional marketing help]
 ```
 
 ## 7. Microsoft
@@ -181,6 +187,7 @@ mindmap
   7[7. Microsoft]
     7.1[7.1 Avoid NIH Syndrome]
     7.2[7.2 Don't Cannibalize existing OSS]
+    7.3[7.3 promote projects with marketing]
 ```
 
 ## 8. Commercial Vendors
@@ -196,4 +203,12 @@ mindmap
        8.2.1(8.2.1 add to our mutual aid offers)
     8.3[8.3.1 Offer public help on using tools with OSS]
       8.3.1(8.3.1 YouTube / stream with vendors & devrel)
+```
+
+## 9. Conference Organizers
+
+```mermaid
+mindmap
+  9[9. conference organizers]
+    9.1[9.1 more OSS tracks]
 ```
