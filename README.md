@@ -34,6 +34,9 @@ mindmap
       1.1.2(1.1.2 tool to scan for surfaced needs)
     1.2[1.2 Make it easy to fund you]
     1.3[1.3 Don't alienate while asking for help]
+      1.3.1(1.3.1 Examples of where it's gone wrong and why)
+      1.3.2(1.3.2 Guidance on communicating changes)
+      1.3.3(1.3.3 Suggestions on how to ask for help)
     1.4[1.4.1 Have a plan to split donations]
       1.4.1(1.4.1 guidance on splitting donations)
       1.4.2(1.4.2 highlight examples of approaches)
@@ -55,6 +58,13 @@ mindmap
       1.7.1(1.7.1 Guide to understanding OSS motivations)
       1.7.2(1.7.2 Downsides of monetary donations)
       1.7.3(1.7.3 Guidance on whether it makes sense to pursue)
+    1.8[1.8 Create commercial support agreements]
+      1.8.1(1.8.1 Guidance on how to make support available)
+      1.8.2(1.8.2 Mutual aid to connect projects)
+      1.8.3(1.8.3 Recommend tooling and templates to standardize this for orgs)
+      1.8.4(1.8.4 highlight real-world examples)
+
+
 ```
 
 ## 2. OSS Contributors
