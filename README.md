@@ -63,7 +63,8 @@ mindmap
     3.4[3.4 Thank OSS Maintainers]
       3.4.1(3.4.1 guidance on ways to thank maintainers)
     3.5[3.5 Pay for a support license]
-    3.6[Seize OSS Consulting opportunities]
+    3.6[3.6 Seize OSS Consulting opportunities]
+    3.7[3.7 Beware OSS Entitlement]
 ```
 
 ## 4. Companies
@@ -79,9 +80,32 @@ mindmap
       4.2.4(4.2.4 Employee Talking Points for OSS Funding)
       4.2.5(4.2.5 Points on Business value of OSS funding)
       4.2.6(4.2.6 tooling to surface which OSS is asking for funding)
+      4.2.7(4.2.7 Guidance for tax incentives around OSS donations)
+      4.2.8(4.2.8 Maintainer guidance on valid legal entities)
+      4.2.9(4.2.9 Explain why it matters)
+      4.2.10(4.2.10 Templates for projects to explain why it matters)
+      4.2.11(4.2.11 Spotlight/social media praise mechanisms for backers)
+      4.2.12(4.2.12 Guidance of mechanics of donating via GitHub)
+      4.2.13(4.2.13 Tooling to suggest / calculate an "OSS budget")
     4.3[4.3 Make Space to Contribute to OSS]
     4.4[Let OSS highlight you as a user]
+      4.4.1(4.4.1 Guidance on how other orgs do this -- legal, branding/marketing)
+      4.4.2(4.4.2 GitHub issue template for this and guidance to create)
+      4.4.3(4.4.3 Examples of companies currently doing this)
+      4.4.4(4.4.4 Articles addressing business concerns around it)
     4.5[Seize OSS Consulting opportunities]
+    4.6[4.6 Pay for a support license]
+      4.6.1(4.6.1 Articles on biz value of support licenses)
+      4.6.2(4.6.2 Maintainer guidance for how to structure that)
+      4.6.3(4.6.3 Support license templates)
+      4.6.4(4.6.4 Legal vetting of support licenses)
+      4.6.5(4.6.5 Guidance to companies to shortcut procurement rage)
+    4.7[Hire Maintainers for Consulting]
+      4.7.1(4.7.1 Place where maintainers can ask where consulting might be valuable)
+      4.7.2(4.7.2 Template guidance for consulting availability/outreach)
+      4.7.3(4.7.3 Standard ways for maintainers to announce their availability for consulting)
+      4.7.4(4.7.4 Templates for clear consulting engagement boundaries)
+
 ```
 
 ## 5. Would-Be Contributors
