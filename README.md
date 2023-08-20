@@ -34,6 +34,18 @@ mindmap
       1.1.2(1.1.2 tool to scan for surfaced needs)
     1.2[1.2 Make it easy to fund you]
     1.3[1.3 Don't alienate while asking for help]
+    1.4[1.4.1 Have a plan to split donations]
+      1.4.1(1.4.1 guidance on splitting donations)
+      1.4.2(1.4.2 highlight examples of approaches)
+    1.5[1.5 Create entity to accept donations]
+      1.5.1(1.5.1 Guidance on creating legal entities in varying countries)
+      1.5.2(1.5.2 Guidance on taxes for OSS donations)
+      1.5.3(1.5.3 Guidance on 501c3 setup or similar)
+      1.5.4(1.5.4 guidance/examples on mechanics of Sponsor-only nuget feed)
+      1.5.5(1.5.5 OpenCollective Page Guidance/examples)
+      1.5.6(1.5.6 GitHub Sponsors Entry Guidance/examples)
+      1.5.7(1.5.7 Mutual aid site to connect projects around this)
+      1.5.8(1.5.8 Guidance/examples around personal tax implications)
 ```
 
 ## 2. OSS Contributors
