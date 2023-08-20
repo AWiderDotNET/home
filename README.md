@@ -50,6 +50,11 @@ mindmap
       1.6.1(1.6.1 Guidance/examples around "open core" licensing)
       1.6.2(1.6.2 Mutual aid to connect projects)
       1.6.3(1.6.3 Article to address "is it still OSS?" / OSI licensing)
+      1.6.4(1.6.4 Guidance on mechanics of moving to dual license)
+    1.7[1.7 Understand their own motivations]
+      1.7.1(1.7.1 Guide to understanding OSS motivations)
+      1.7.2(1.7.2 Downsides of monetary donations)
+      1.7.3(1.7.3 Guidance on whether it makes sense to pursue)
 ```
 
 ## 2. OSS Contributors
