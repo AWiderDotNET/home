@@ -139,4 +139,9 @@ mindmap
 mindmap
   8[8. Commercial Tooling Vendors]
     8.1[8.1 Offer Free Tooling]
+      8.1.1(8.1.1 Guidance on how other orgs do this)
+      8.1.2(8.1.2 Info on ROI / business "WIIFM")
+      8.1.3(8.1.3 Wall of thanks for vendors doing this)
+    8.2[8.2 Surface the free Tooling offers]
+       8.2.1(8.2.1 add to our mutual aid offers)
 ```
