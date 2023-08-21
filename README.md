@@ -94,7 +94,7 @@ mindmap
       3.1.3(3.1.3 article on how to convince biz of value)
     3.2[3.2 Respect OSS Authors]
       3.2.1(3.2.1 consumer covenant with guidance on behavior/mindset)
-      3.2.2(signatories on covenant)
+      3.2.2(3.2.2 signatories on covenant)
     3.3[3.3 Contribute Something Back]
       3.3.1(3.3.1 guidance on non-code contribution)
       3.3.2(3.3.2 place to get trained to contribute)
