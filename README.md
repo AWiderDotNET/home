@@ -93,7 +93,7 @@ mindmap
       3.1.2(3.1.2 article on biz value of OSS)
       3.1.3(3.1.3 article on how to convince biz of value)
     3.2[3.2 Respect OSS Authors]
-      3.2.1(3.2.1 consumer convenant with guidance on behavior/mindset)
+      3.2.1(3.2.1 consumer covenant with guidance on behavior/mindset)
       3.2.2(signatories on covenant)
     3.3[3.3 Contribute Something Back]
       3.3.1(3.3.1 guidance on non-code contribution)
@@ -108,9 +108,12 @@ mindmap
       3.8.2(3.8.2 Article on why these licenses are appearing)
       3.8.3(3.8.3 How to talk to employers about this)
     3.9[3.9 Improve your bug reports]
-    3.10[3.10 tell people how the labraries you use help you]
+    3.10[3.10 tell people how the libraries you use help you]
     3.11[3.11 talk specifically about "bedrock" everyday libraries]
     3.12[3.12 don't complain about OSS projects publicly unnecessarily]
+    3.13[3.13 Post blurbs about your favorite OSS]
+      3.13.1(3.13.1 Create common hashtags, e.g #OSSShowcase)
+      3.13.2(3.13.2 aggregators for these submissions)
 ```
 
 ## 4. Companies
@@ -157,7 +160,7 @@ mindmap
       4.8.3(4.8.3 Maintainer talking points to help companies)
     4.9[4.9 get non-coders to contribute to OSS]
     4.10[4.10 showcase oss on your larger feeds]
-
+    4.11[4.11 Encourage employees to talk about OSS usage]
 ```
 
 ## 5. Would-Be Contributors
