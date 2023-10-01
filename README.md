@@ -16,7 +16,7 @@ To achieve these impacts, we're using [a tool commonly known as impact mapping](
 * **A bias toward action**. We will be keeping a keen focus on what we can do from where we are.
 * **Making space to participate**. This is a multifaceted challenge and we're going to find a way for people to jump in where they're most passionate.
 
-## Introducing the Impact Maps
+## Introducing the Impact Map Drafts
 
 Normally this would be a very large map, but for the ease of reading we're breaking the map up by the second level (the "who")
 . There will be some overlapping items but we'll do our best to organize it for disocverability.
