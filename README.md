@@ -109,7 +109,7 @@ mindmap
       3.8.3(3.8.3 How to talk to employers about this)
     3.9[3.9 Improve your bug reports]
     3.10[3.10 tell people how the libraries you use help you]
-    3.11[3.11 talk specifically about "bedrock" everyday libraries
+    3.11[3.11 talk specifically about "bedrock" everyday libraries]
       3.11.1(3.11.1 Ask people what OSS they might take for granted)
     3.12[3.12 don't complain about OSS projects publicly unnecessarily]
       3.12.1(3.12.1 Articles on "consumer harms" to redirect behavior)
